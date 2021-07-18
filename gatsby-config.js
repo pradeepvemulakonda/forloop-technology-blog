@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "forloop technology blog",
-    siteUrl: `https://www.example.com`,
+    siteUrl: `https://www.forloop.in`,
   },
   plugins: [
     "gatsby-plugin-styled-components",
